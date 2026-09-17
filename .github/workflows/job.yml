@@ -1,4 +1,4 @@
-name: job
+name: auto
 on: push
 jobs:
    build:
