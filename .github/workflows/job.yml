@@ -7,4 +7,6 @@ jobs:
      - run: 
             echo "hello anji"
             echo "this is github actions"
+            echo "this is trigger"
+            
      
